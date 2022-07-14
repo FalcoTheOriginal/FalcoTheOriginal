@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FalcoTheOriginal
-- 👀 I’m interested in FiveM Modding / Developing
+- 👀 I’m interested in Python and Lua
 - 🌱 I’m currently learning Developing
-- 📫 How to reach me on Discord FalcoTheOriginal#6508
+- 📫 How to reach me on Discord FalcoTheOriginal#1998
 
 <!---
 FalcoTheOriginal/FalcoTheOriginal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
