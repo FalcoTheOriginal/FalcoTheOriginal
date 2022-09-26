@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FalcoTheOriginal
-- 👀 I’m interested in Python and Lua
+- 👀 I’m interested in C#, C++ && Java
 - 🌱 I’m currently learning Developing
-- 📫 How to reach me on Discord FalcoTheOriginal#1998
+- 📫 How to reach me on Discord FalcoTheOriginal#1902
 
 <!---
 FalcoTheOriginal/FalcoTheOriginal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
