@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FalcoTheOriginal
-- 👀 I’m interested in C#, C++ && Java
-- 🌱 I’m currently learning Developing
+- 🌱 I’m currently learning C++
 - 📫 How to reach me on Discord FalcoTheOriginal#1902
 
 <!---
