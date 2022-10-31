@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FalcoTheOriginal
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and a bit C#
 - 📫 How to reach me on Discord FalcoTheOriginal#1902
 
 <!---
